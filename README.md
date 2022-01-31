@@ -6,6 +6,7 @@
 - Game dev
 - Game design
 - Artificial inteligence 
+- Cyber security
 
 ##### What I know:
 - python
