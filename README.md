@@ -1,41 +1,28 @@
-### Hi, 
-#### I’m @VerdeQuar
-#### I’m interested in all kinds of things, here's the list
+### Hi, I’m @VerdeQuar
+#### My interests shift all the time, so here's the list
 
-##### What interests me:
-- Game dev
-- Game design
+##### Currently I'm interested in:
+- Game dev & Game design
 - Artificial inteligence 
 - Cyber security
+- Automating common tasks
 
-##### What I know:
-- python
-  - Django
-  - Flask
-  - random scripting
-- JS/TS
-  - Svelte
-- Godot 
-- Docker
+##### I had experience with:
+- Creating cli applications in Python and Rust
+- Visualizing data in matplotlib (Python)
+- Linux ecosystem (as i am daily driving Arch Linux and more recently Nixos)
+- Web development using various frameworks
+- Games modding (in Lua and Java)
 
-##### What I had some experience with:
-- Java
-- Lua
-- C++
-- C#
-- Unity
-
-##### What I plan to learn: 
-- kotlin
-- C
+##### I plan to learn: 
+- kotlin (Android applications)
+- Vulkan
 - Neural networks
+- Graphics Programming
 
-#### I spend a lot of time learing those things, but beside those I also play games and watch youtube
+#### I spend a lot of time learing them, but beside those I also play games and watch t
 ##### I like
-- Indie games
-  - Logic
-  - Roguelike
-  - Metroidvania
+- Puzzle/Logic Games
 - Videos about
   - Math
   - Physics
@@ -46,5 +33,3 @@
   - Graphics
   - Video editing
   - ... and obviosly programming
-
-oh and.. I use arch btw
